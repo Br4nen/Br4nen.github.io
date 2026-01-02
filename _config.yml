@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Branen's homepage
 description: Bookmark this to keep an eye on my project updates!
+show_downloads: false
+logo: /cat.png
